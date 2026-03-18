@@ -1,5 +1,5 @@
-def add(a,b):
+def add(a, b):
     return a + b
 
-def divide (a,b):
-    return a / b # intentional bug
+def divide(a, b):
+    return a / b
